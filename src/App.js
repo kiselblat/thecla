@@ -1,10 +1,12 @@
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import './App.css';
+
+import data from './data.json';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
+      {/* <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
@@ -17,7 +19,17 @@ function App() {
         >
           Learn React
         </a>
-      </header>
+      </header> */}
+      <h1>{data.title}</h1>
+      <h2>{data.subtitle}</h2>
+      <p>Richard Lipsius, Acta 235-269</p>
+
+      {data.stanzas.map((stanza) => <div>
+          <span>{stanza.number}</span>
+          {stanza.verses.map((verse) => <p>
+            <span>{verse.number}</span>. <span>{verse.english}</span>
+          </p>)}
+        </div>)}
     </div>
   );
 }

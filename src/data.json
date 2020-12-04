@@ -8,37 +8,205 @@
             "verses": [
                 {
                     "number": "1-2",
-                    "english": "When Paul was going up to Iconium after the flight from Antioch, traveling companions were with him, Demas and Hermogenes the metal worker; being full of hypocrisy,"
+                    "english": "When Paul was going up to Iconium after the flight from Antioch, traveling companions were with him, Demas and Hermogenes the metal worker; being full of hypocrisy,",
+                    "footnotes": [
+                        {
+                            "number": "1",
+                            "location": "10",
+                            "content": "The plot begins in medias res with the use of φυγή, “flight, escape,” setting an ominous tone for this story that is both travel narrative and persecution narrative."
+                        },
+                        {
+                            "number": "2",
+                            "location": "26",
+                            "content": "Γέμω “to be fully loaded” + gen. of load, to be full of. E.g., Matt 23:27 of scribes and Pharisees who are: ἔσωθεν δὲ γέμουσιν ὀστέων νεκρῶν καὶ πάσης ἀκαθαρσίας, “on the inside full of the bones of the dead and all kinds of uncleanness.”"
+                        }
+                    ]
                 },
                 {
                     "number": "3",
-                    "english": "earnestly beseeched Paul as though they loved him agapically."
+                    "english": "earnestly beseeched Paul as though they loved him agapically.",
+                    "footnotes": [
+                        {
+                            "number": "3",
+                            "location": "2",
+                            "content": "ἐξελιπάρουν = impf. of verb ἐκλιπαρέω, to entreat at earnestly, move by entreaty (LSJM); beg, entreat (BADG). Also at 4.1. Pervo: “fawned over him” may be from a different witness."
+                        },
+                        {
+                            "number": "4",
+                            "location": "7",
+                            "content": "ὡς ἀγαπῶντες. This reference to false agapic love sets the tone in the story to be aware of the importance of the type of love exhibited by the characters: the ATh transforms the type of love in the Gk romances from eros (4.1) to familial (storgē) and agapic. Cf. 3.19 (10) storgē; 3.25 (1) agapē. Thamyris and Alexander have the eros-type of love for Thecla (3.13 phileō; 4.1 eraō; 4.2 phileō)."
+                        }
+                    ]
                 },
                 {
                     "number": "4",
-                    "english": "Paul, however, looking only at the goodness of Christ, did nothing bad to them,"
-
+                    "english": "Paul, however, looking only at the goodness of Christ, did nothing bad to them,",
+                    "footnotes": [
+                        {
+                            "number": "5",
+                            "location": "7",
+                            "content": "ἀγαθοσύνη is usually spelled with an omega: ἀγαθωσύνη (Muraoka), good, kindly disposition; advantage; (LSJM) goodness, kindness."
+                        },
+                        {
+                            "number": "6",
+                            "location": "12",
+                            "content": "φαῦλος, α, ον mean, bad (LSJM). Play on words with Paulos and phaulos."
+                        }
+                    ]
                 },
                 {
                     "number": "5",
-                    "english": "but loved them very much paternally,"
-
+                    "english": "but loved them very much paternally,",
+                    "footnotes": [
+                        {
+                            "number": "7",
+                            "location": "2",
+                            "content": " στέργω to show affection for (Muraoka); LSJM: love, feel affection—freq. of the mutual love of parents and children. So also 4.4 of Tryphaena’s love for Thecla like her daughter. The sense here is that Paul showed them much parental love."
+                        }
+                    ]
                 },
                 {
                     "number": "6",
-                    "english": "so that all the sayings of the Lord [and teachings and exposition of the Gospel] and offspring and resurrection of the Beloved sweetened them,"
+                    "english": "so that all the sayings of the Lord [and teachings and exposition of the Gospel] and offspring and resurrection of the Beloved sweetened them,",
+                    "footnotes": [
+                        {
+                            "number": "8",
+                            "location": "17",
+                            "content": "The noun ἡ γέννησις, εως offspring (Muraoka), engendering, producing (LSJM), is interesting in the light of Thecla not doing her cultural duty to be a mother and wife. Pervo’s “birth” presumes γένεσις, a different Gk word."
+                        },
+                        {
+                            "number": "9",
+                            "location": "22",
+                            "content": "ἠγαπημένου is pf pass. part. of ἀγαπάω. Also used of Jesus at Eph 1:6. Used as an epithet of Jerusalem at Rev 20:9. This verb is used of God’s love for Jesus (John 3:35; 10:17; 17:26), Jesus’ love for God (John 14:31), and God’s love for those who love Jesus (John 14:21). This verb is also used of Jesus’ love for the wealthy fellow Jew in Mark 10:21."
+                        },
+                        {
+                            "number": "10",
+                            "location": "23",
+                            "content": "γλυκαίνω to produce an effect of sweetness; to be sweetened, turned sweet (LSJM). Cf. γλυκύς, εῖα, ύ, sweet; pleasant, delightful. Neuter plural nouns, here ta logia, regularly take singular verb."
+                        }
+                    ]
                 },
                 {
                     "number": "7a",
-                    "english": "as well as the mighty acts of Christ—"
+                    "english": "as well as the mighty acts of Christ—",
+                    "footnotes": [
+                        {
+                            "number": "11",
+                            "location": "6",
+                            "content": "μεγαλεῖος, α, ον “magnificent, splendid” (Muraoka, LSJM). In LXX and NT τα μ. “mighty works” (LJSM). Tob 11:15 (G1) “great/magnificent things”; Acts 2:11 τὰ μεγαλεῖα τοῦ θεου, “the might acts of God” (NAB), “God’s mighty acts of power” (NRSV). Same noun used at 3.18 regarding the mighty acts of God Paul communicates with Thecla at his feet."
+                        }
+                    ]
                 },
                 {
                     "number": "8",
-                    "english": "how they were made known to him;"
+                    "english": "how they were made known to him;",
+                    "footnotes": [
+                        {
+                            "number": "12",
+                            "location": "5",
+                            "content": " ἀποκαλύπτω to uncover, disclose, reveal; pass: to be made known (LJSM). Muraoka: to uncover, bring into view; to make known what is unknown. Again the common neuter plural subject with singular verb."
+                        }
+                    ]
                 },
                 {
                     "number": "7b",
-                    "english": "in this way he expounded to them."
+                    "english": "in this way he expounded to them.",
+                    "footnotes": [
+                        {
+                            "number": "13",
+                            "location": "5",
+                            "content": "διηγέομαι to relate fully. Muraoka: to give detailed account, narrate. Also 3.2 (line 4)."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "number": "2",
+            "altNumber": "4",
+            "verses": [
+                {
+                    "number": "",
+                    "english": "",
+                    "footnotes": [
+                        {
+                            "number": "",
+                            "location": "",
+                            "content": ""
+                        }
+                    ]
+                },
+                {
+                    "number": "",
+                    "english": "",
+                    "footnotes": [
+                        {
+                            "number": "",
+                            "location": "",
+                            "content": ""
+                        }
+                    ]
+                },
+                {
+                    "number": "",
+                    "english": "",
+                    "footnotes": [
+                        {
+                            "number": "",
+                            "location": "",
+                            "content": ""
+                        }
+                    ]
+                },
+                {
+                    "number": "",
+                    "english": "",
+                    "footnotes": [
+                        {
+                            "number": "",
+                            "location": "",
+                            "content": ""
+                        }
+                    ]
+                },
+                {
+                    "number": "",
+                    "english": "",
+                    "footnotes": [
+                        {
+                            "number": "",
+                            "location": "",
+                            "content": ""
+                        }
+                    ]
+                },
+                {
+                    "number": "",
+                    "english": "",
+                    "footnotes": [
+                        {
+                            "number": "",
+                            "location": "",
+                            "content": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "number": "3",
+            "altNumber": "5",
+            "verses": [
+                {
+                    "number": "",
+                    "english": "",
+                    "footnotes": [
+                        {
+                            "number": "",
+                            "location": "",
+                            "content": ""
+                        }
+                    ]
                 }
             ]
         }

@@ -1,0 +1,62 @@
+{
+    "title": "Green Acres",
+    "author": "Vic Mizzy",
+    "stanzas": [
+        {
+            "verses": [
+                {
+                    "english": "Green acres is the place to be"
+                },
+                {
+                    "english": "Farm livin' is the life for me"
+                },
+                {
+                    "english": "Land spreadin' out so far and wide"
+                },
+                {
+                    "english": "Keep Manhattan, just give me that countryside"
+                }
+            ]
+        },
+        {
+            "verses": [
+                {
+                    "english": "New York is where I'd rather stay"
+                },
+                {
+                    "english": "I get allergic smelling hay"
+                },
+                {
+                    "english": "I just adore a penthouse view"
+                },
+                {
+                    "english": "Dahling I love you but give me Park Avenue"
+                }
+            ]
+        },
+        {
+            "verses":[
+                {
+                    "english": "The chores, the stores"
+                },
+                {
+                    "english": "Fresh air, Times Square"
+                }
+                
+            ]
+        },
+        {
+            "verses":[
+                {
+                    "english": "You are my wife"
+                },
+                {
+                    "english": "Good bye, city life"
+                },
+                {
+                    "english": "Green acres we are there"
+                }
+            ]
+        }
+    ]
+}

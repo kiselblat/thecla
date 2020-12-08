@@ -3,58 +3,267 @@
     "author": "Vic Mizzy",
     "stanzas": [
         {
+            "stanza": 1,
             "verses": [
                 {
-                    "english": "Green acres is the place to be"
+                    "verse": 1,
+                    "english": "Green Acres is the place to be",
+                    "comments": [
+                        {
+                            "content": "While Green Acres is a place to be, it is not the place to be in any technical sense. Instead this lyric refers to a popular aphorism at the time, in which the so-called \"place to be\" is simply one desirable place among many. Indeed one of the central ironies of the show is that Green Acres is not an altogether desirable place."
+                        }
+                    ],
+                    "footnotes": [
+                        {
+                            "footnote": 1,
+                            "location": 2,
+                            "content": "Green Acres is the name of the farm or something. The town it occupies is called Hooterville, in Hooterville Valley, in Hooterville County, and a real podunk nonetheless."
+                        }
+                    ],
+                    "speakers": [
+                        {
+                            "speakerName": "Oliver",
+                            "className": "country"
+                        }
+                    ]
                 },
                 {
-                    "english": "Farm livin' is the life for me"
+                    "verse": 2,
+                    "english": "Farm livin' is the life for me",
+                    "comments": [
+                        {
+                            "content": "Another central irony is the great extent to which \"farm livin'\" was not, in fact, the life for Mr. Douglas."
+                        }
+                    ],
+                    "footnotes": [
+                        {
+                            "footnote": 2,
+                            "location": 2,
+                            "content": "\"Living\""
+                        }
+                    ],
+                    "speakers": [
+                        {
+                            "speakerName": "Oliver",
+                            "className": "country"
+                        }
+                    ]
                 },
                 {
-                    "english": "Land spreadin' out so far and wide"
+                    "verse": 3,
+                    "english": "Land spreadin' out so far and wide",
+                    "comments": [
+                        {
+                            "content": "This sounds nice, actually."
+                        }
+                    ],
+                    "footnotes": [
+                        {
+                            "footnote": 3,
+                            "location": 2,
+                            "content": "\"Spreading\""
+                        },
+                        {
+                            "footnote": 4,
+                            "location": 7,
+                            "content": "Not seen on the show."
+                        }
+                    ],
+                    "speakers": [
+                        {
+                            "speakerName": "Oliver",
+                            "className": "country"
+                        }
+                    ]
                 },
                 {
-                    "english": "Keep Manhattan, just give me that countryside"
+                    "verse": 4,
+                    "english": "Keep Manhattan, just give me that countryside",
+                    "comments": [
+                        {
+                            "content": "These lyrics do manage to convey the simulaneous nuttiness and sincerity behind Douglas' intentions. One can sympathize, initially at least, with the urge to get away from it all."
+                        }
+                    ],
+                    "speakers": [
+                        {
+                            "speakerName": "Oliver",
+                            "className": "country"
+                        }
+                    ]
                 }
             ]
         },
         {
+            "stanza": 2,
             "verses": [
                 {
-                    "english": "New York is where I'd rather stay"
+                    "verse": 1,
+                    "english": "New York is where I'd rather stay",
+                    "comments": [
+                        {
+                            "content": "Seems fair to state a preference, but spoiler alert: she does not stay."
+                        }
+                    ],
+                    "speakers": [
+                        {
+                            "speakerName": "Lisa",
+                            "className": "city"
+                        }
+                    ]
                 },
                 {
-                    "english": "I get allergic smelling hay"
+                    "verse": 2,
+                    "english": "I get allergic smelling hay",
+                    "comments": [
+                        {
+                            "content": "Well this makes forcing her to move seem cruel, doesn't it. However the text of the show does not back up any kind of severe allergy."
+                        }
+                    ],
+                    "speakers": [
+                        {
+                            "speakerName": "Lisa",
+                            "className": "city"
+                        }
+                    ]
                 },
                 {
-                    "english": "I just adore a penthouse view"
+                    "verse": 3,
+                    "english": "I just adore a penthouse view",
+                    "comments": [
+                        {
+                            "content": "This sounds nice, too."
+                        }
+                    ],
+                    "footnotes": [
+                        {
+                            "footnote": 5,
+                            "location": 6,
+                            "content": "Penthouses tend to be on upper floors, so the view was probably quite good."
+                        }
+                    ],
+                    "speakers": [
+                        {
+                            "speakerName": "Lisa",
+                            "className": "city"
+                        }
+                    ]
                 },
                 {
-                    "english": "Dahling I love you but give me Park Avenue"
+                    "verse": 4,
+                    "english": "Dahling I love you, but give me Park Avenue",
+                    "footnotes": [
+                        {
+                            "footnote": 6,
+                            "location": 1,
+                            "content": "\"Darling\""
+                        }
+                    ],
+                    "speakers": [
+                        {
+                            "speakerName": "Lisa",
+                            "className": "city"
+                        }
+                    ]
                 }
             ]
         },
         {
-            "verses":[
+            "stanza": 3,
+            "verses": [
                 {
-                    "english": "The chores, the stores"
+                    "verse": 1,
+                    "english": "The chores, the stores",
+                    "comments": [
+                        {
+                            "content": "The chores? That's what you're looking forward to?"
+                        }
+                    ],
+                    "footnotes": [
+                        {
+                            "footnote": 7,
+                            "location": 4,
+                            "content": "There is really good shopping in New York."
+                        }
+                    ],
+                    "speakers": [
+                        {
+                            "speakerName": "Oliver",
+                            "className": "country",
+                            "speakerLocations": [1, 2]
+                        },
+                        {
+                            "speakerName": "Lisa",
+                            "className": "city",
+                            "speakerLocations": [3, 4]
+                        }
+                    ]
                 },
                 {
-                    "english": "Fresh air, Times Square"
+                    "verse": 2,
+                    "english": "Fresh air, Times Square",
+                    "comments": [
+                        {
+                            "content": "Honestly I don't know if I'd lead with Times Square if I were trying to sell New York residency, but it does complete the couplet."
+                        }
+                    ],
+                    "speakers": [
+                        {
+                            "speakerName": "Oliver",
+                            "className": "country",
+                            "speakerLocations": [1, 2]
+                        },
+                        {
+                            "speakerName": "Lisa",
+                            "className": "city",
+                            "speakerLocations": [3, 4]
+                        }
+                    ]
                 }
                 
             ]
         },
         {
-            "verses":[
+            "stanza": 4,
+            "verses": [
                 {
-                    "english": "You are my wife"
+                    "verse": 1,
+                    "english": "You are my wife",
+                    "comments": [
+                        {
+                            "content": "Probably not making it to air with this one nowadays, huh?"
+                        }
+                    ],
+                    "speakers": [
+                        {
+                            "speakerName": "Oliver",
+                            "className": "country"
+                        }
+                    ]
                 },
                 {
-                    "english": "Good bye, city life"
+                    "verse": 2,
+                    "english": "Good bye, city life",
+                    "comments": [
+                        {
+                            "content": "Canonically, she loves and supports him or something, but it also turns out his Mom is rich, so feel free to draw your own conclusions."
+                        }
+                    ],
+                    "speakers": [
+                        {
+                            "speakerName": "Lisa",
+                            "className": "city"
+                        }
+                    ]
                 },
                 {
-                    "english": "Green acres we are there"
+                    "verse": 3,
+                    "english": "Green acres we are there!",
+                    "speakers": [
+                        {
+                            "speakerName": "Both",
+                            "className": "both"
+                        }
+                    ]
                 }
             ]
         }

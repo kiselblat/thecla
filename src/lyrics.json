@@ -1,12 +1,13 @@
 {
     "title": "Green Acres",
+    "subtitle": "Theme from the Television Show",
     "author": "Vic Mizzy",
     "stanzas": [
         {
-            "stanza": 1,
+            "number": 1,
             "verses": [
                 {
-                    "verse": 1,
+                    "number": 1,
                     "english": "Green Acres is the place to be",
                     "comments": [
                         {
@@ -28,7 +29,7 @@
                     ]
                 },
                 {
-                    "verse": 2,
+                    "number": 2,
                     "english": "Farm livin' is the life for me",
                     "comments": [
                         {
@@ -50,7 +51,7 @@
                     ]
                 },
                 {
-                    "verse": 3,
+                    "number": 3,
                     "english": "Land spreadin' out so far and wide",
                     "comments": [
                         {
@@ -77,7 +78,7 @@
                     ]
                 },
                 {
-                    "verse": 4,
+                    "number": 4,
                     "english": "Keep Manhattan, just give me that countryside",
                     "comments": [
                         {
@@ -94,10 +95,10 @@
             ]
         },
         {
-            "stanza": 2,
+            "number": 2,
             "verses": [
                 {
-                    "verse": 1,
+                    "number": 1,
                     "english": "New York is where I'd rather stay",
                     "comments": [
                         {
@@ -112,7 +113,7 @@
                     ]
                 },
                 {
-                    "verse": 2,
+                    "number": 2,
                     "english": "I get allergic smelling hay",
                     "comments": [
                         {
@@ -127,7 +128,7 @@
                     ]
                 },
                 {
-                    "verse": 3,
+                    "number": 3,
                     "english": "I just adore a penthouse view",
                     "comments": [
                         {
@@ -149,7 +150,7 @@
                     ]
                 },
                 {
-                    "verse": 4,
+                    "number": 4,
                     "english": "Dahling I love you, but give me Park Avenue",
                     "footnotes": [
                         {
@@ -168,10 +169,10 @@
             ]
         },
         {
-            "stanza": 3,
+            "number": 3,
             "verses": [
                 {
-                    "verse": 1,
+                    "number": 1,
                     "english": "The chores, the stores",
                     "comments": [
                         {
@@ -199,7 +200,7 @@
                     ]
                 },
                 {
-                    "verse": 2,
+                    "number": 2,
                     "english": "Fresh air, Times Square",
                     "comments": [
                         {
@@ -223,10 +224,10 @@
             ]
         },
         {
-            "stanza": 4,
+            "number": 4,
             "verses": [
                 {
-                    "verse": 1,
+                    "number": 1,
                     "english": "You are my wife",
                     "comments": [
                         {
@@ -241,7 +242,7 @@
                     ]
                 },
                 {
-                    "verse": 2,
+                    "number": 2,
                     "english": "Good bye, city life",
                     "comments": [
                         {
@@ -256,7 +257,7 @@
                     ]
                 },
                 {
-                    "verse": 3,
+                    "number": 3,
                     "english": "Green acres we are there!",
                     "speakers": [
                         {

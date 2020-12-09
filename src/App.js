@@ -48,13 +48,13 @@ function App() {
       setOutro(true);
       console.log("outro")
     }
-    console.info("currentLocation", currentLocation);
+    console.table(currentLocation);
     console.groupEnd();
   }, [currentLocation])
 
   useEffect( () => {
     console.group("Data")
-    console.info("currentStanza", currentStanza)
+    currentStanza ? console.table(currentStanza.verses) : console.log('Stanza not loaded')
     console.groupEnd()
   }, [currentStanza])
 
@@ -72,8 +72,8 @@ function App() {
           <div className={`verse-text`}>
             <p>{verse.english}</p>
           </div>
-          {verse.comments && <div className={`verse-commentary`}>
-            {verse.comments.map(comment => <p className={`comment-text`}>{comment.content}</p>)}
+          {verse.comments && <div className={`verse-commentary`} key={`vc-${verse.number}`}>
+            {verse.comments.map(comment => <p className={`comment-text`} key={`c-${verse.number}`}>{comment.content}</p>)}
           </div>}
         </div>)}
       </div>}

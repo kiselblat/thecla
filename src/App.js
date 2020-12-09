@@ -28,6 +28,7 @@ function App() {
   }
 
   useEffect( () => {
+    console.group("Location")
     // At the beginning
     if (currentLocation.stanza === 0) {
       setIntro(true);
@@ -51,11 +52,18 @@ function App() {
       console.log("outro")
     }
     console.info("currentLocation", currentLocation);
-  }, [currentLocation] )
+    console.groupEnd();
+  }, [currentLocation])
+
+  useEffect( () => {
+    console.group("Data")
+    console.info("currentStanza", currentStanza)
+    console.groupEnd()
+  }, [currentStanza])
 
   return (
     <div className="App">
-    
+
       {intro && <div className={`intro`}>
         <h1>{data.title}</h1>
         <h2>{data.subtitle}</h2>
@@ -63,7 +71,17 @@ function App() {
       </div>}
 
       {currentStanza && <div className={`stanza stanza-${currentLocation.stanza}`}>
-        {currentStanza.verses.map(verse => <p key={`v-${verse.number}`}>{verse.english}</p>)}
+        {currentStanza.verses.map(verse => <div className={`verse-container`} key={`v-${verse.number}`}>
+          <div className={`verse-text`}>
+            <p>{verse.english}</p>
+          </div>
+          {verse.comments && <div className={`verse-commentary`}>
+            {verse.comments.map(comment => <p className={`comment-text`}>{comment.content}</p>)}
+          </div>}
+        </div>)}
+        {/* <div className={`commentary`}>
+          {currentStanza.verses.map(verse => verse.comments ? verse.comments.map(comment => <p>{comment.content}</p>) : '')}
+        </div> */}
       </div>}
 
       <div className={`small-nav`}>

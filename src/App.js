@@ -63,19 +63,24 @@ function App() {
 
       {intro && <div className={`intro`}>
         <h1>{data.title}</h1>
-        <h2>{data.subtitle}</h2>
+        <p>{data.subtitle}</p>
         <p>{data.author}</p>
       </div>}
 
       {currentStanza && <div className={`stanza stanza-${currentLocation.stanza}`}>
+        <h3>Stanza {currentStanza.number}</h3>
         {currentStanza.verses.map(verse => <div className={`verse-container`} key={`v-${verse.number}`}>
           <div className={`verse-text`}>
             <p>{verse.english}</p>
           </div>
-          {verse.comments && <div className={`verse-commentary`} key={`vc-${verse.number}`}>
-            {verse.comments.map(comment => <p className={`comment-text`} key={`c-${verse.number}`}>{comment.content}</p>)}
-          </div>}
+          {/* {verse.comments && <div className={`verse-commentary`} key={`vc-${verse.number}`}>
+            {verse.comments.map((comment, i) => <p className={`comment-text`} key={`vcc-${i}`}>{comment.content}</p>)}
+          </div>} */}
         </div>)}
+        {currentStanza.comments && <div className={`commentary-container`}>
+          <h3>Commentary</h3>
+          {currentStanza.comments.map((comment, i) => <p key={`sc-${i}`}>{comment.content}</p>)}
+        </div>}
       </div>}
 
       <div className={`small-nav`}>

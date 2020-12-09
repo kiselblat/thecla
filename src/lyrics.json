@@ -5,13 +5,24 @@
     "stanzas": [
         {
             "number": 1,
+            "comments": [
+                {
+                    "content": "While Green Acres is a place to be, it is not the place to be in any technical sense. Instead this lyric refers to a popular aphorism at the time, in which the so-called \"place to be\" is simply one desirable place among many. Indeed one of the central ironies of the show is that Green Acres is not an altogether desirable place."
+                },
+                {
+                    "content": "Another central irony is the great extent to which \"farm livin'\" was not, in fact, the life for Mr. Douglas."
+                },
+                {
+                    "content": "These lyrics do manage to convey the simulaneous nuttiness and sincerity behind Douglas' intentions. One can sympathize, initially at least, with the urge to get away from it all."
+                }
+            ],
             "verses": [
                 {
                     "number": 1,
                     "english": "Green Acres is the place to be",
                     "comments": [
                         {
-                            "content": "While Green Acres is a place to be, it is not the place to be in any technical sense. Instead this lyric refers to a popular aphorism at the time, in which the so-called \"place to be\" is simply one desirable place among many. Indeed one of the central ironies of the show is that Green Acres is not an altogether desirable place."
+                            "content": "One of the central ironies of the show is that Green Acres is not an altogether desirable place."
                         }
                     ],
                     "footnotes": [
@@ -82,7 +93,7 @@
                     "english": "Keep Manhattan, just give me that countryside",
                     "comments": [
                         {
-                            "content": "These lyrics do manage to convey the simulaneous nuttiness and sincerity behind Douglas' intentions. One can sympathize, initially at least, with the urge to get away from it all."
+                            "content": "I can sympathize, honestly."
                         }
                     ],
                     "speakers": [
@@ -96,6 +107,14 @@
         },
         {
             "number": 2,
+            "comments": [
+                {
+                    "content": "The chief early tension comes from Lisa's desire to return to New York."
+                },
+                {
+                    "content": "She—also ironically—adapts to the surreal culture and society of Hooterville far more easily than her counterpart."
+                }
+            ],
             "verses": [
                 {
                     "number": 1,
@@ -170,6 +189,11 @@
         },
         {
             "number": 3,
+            "comments": [
+                {
+                    "content": "Since this song seems to take the form of the fight they had about it, one presumes this is when the bargaining occured."
+                }
+            ],
             "verses": [
                 {
                     "number": 1,
@@ -225,13 +249,21 @@
         },
         {
             "number": 4,
+            "comments": [
+                {
+                    "content": "Probably not making it to air with this one nowadays, huh?"
+                },
+                {
+                    "content": "Canonically, she loves and supports him or something, but it also turns out his Mom is rich, so feel free to draw your own conclusions."
+                }
+            ],
             "verses": [
                 {
                     "number": 1,
                     "english": "You are my wife",
                     "comments": [
                         {
-                            "content": "Probably not making it to air with this one nowadays, huh?"
+                            "content": "I doubt this argument would work on my wife."
                         }
                     ],
                     "speakers": [
@@ -246,7 +278,7 @@
                     "english": "Good bye, city life",
                     "comments": [
                         {
-                            "content": "Canonically, she loves and supports him or something, but it also turns out his Mom is rich, so feel free to draw your own conclusions."
+                            "content": "But there you go I guess, otherwise there wouldn't be a show."
                         }
                     ],
                     "speakers": [

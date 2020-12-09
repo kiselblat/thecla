@@ -2,9 +2,6 @@ import { useState, useEffect } from 'react';
 import './App.css';
 import data from './lyrics.json';
 
-const _ = require('lodash');
-
-
 console.info("Stanzas: ", data.stanzas.length);
 
 function App() {
@@ -15,14 +12,14 @@ function App() {
 
   const nextStanza = () => {
     console.log("next")
-    let tempLocation = _.clone(currentLocation);
+    let tempLocation = {...currentLocation};
     tempLocation.stanza = tempLocation.stanza + 1;
     setCurrentLocation(tempLocation);
   }
 
   const prevStanza = () => {
     console.log("prev")
-    let tempLocation = _.clone(currentLocation);
+    let tempLocation = {...currentLocation};
     tempLocation.stanza = tempLocation.stanza - 1;
     setCurrentLocation(tempLocation);
   }
@@ -79,9 +76,6 @@ function App() {
             {verse.comments.map(comment => <p className={`comment-text`}>{comment.content}</p>)}
           </div>}
         </div>)}
-        {/* <div className={`commentary`}>
-          {currentStanza.verses.map(verse => verse.comments ? verse.comments.map(comment => <p>{comment.content}</p>) : '')}
-        </div> */}
       </div>}
 
       <div className={`small-nav`}>
